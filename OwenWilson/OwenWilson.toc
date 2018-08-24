@@ -1,5 +1,5 @@
 ## Interface: 80000
-## Title: Owen Wilson Wow Loot
+## Title: Owen Wilson Wow Loot 0.1
 ## Notes: Wow, that's a lot of loot buddy.
 ## Author: Russell Vacanti
 ## Version: 0.1
