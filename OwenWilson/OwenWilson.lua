@@ -18,7 +18,7 @@ local lootFrame = CreateFrame("Frame")
 lootFrame:RegisterEvent("LOOT_OPENED")
 
 
-message('Owen Wilson loaded ' .. soundLength .. ' looting sounds.')
+print('Owen Wilson loaded ' .. soundLength .. ' looting sounds.')
 
 lootFrame:SetScript("OnEvent",function(self, event, ...)
 	local g = math.random(soundLength)
